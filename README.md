@@ -1,2 +1,9 @@
-# save-tabs
-Save tabs to bookmark
+<h2 align="center">Save tabs</h2>
+<br>
+Simply click on the icon or press Alt+Shift+D to bookmark all open tabs.
+## Build
+
+```shell
+npm install
+npm run build
+```

@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+    "target": "es2015",
+    "module": "es2015",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "noEmit": true,
+    "downlevelIteration": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "types": ["chrome"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
