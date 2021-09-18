@@ -1,7 +1,7 @@
 {
   "name": "save-tabs",
   "version": "0.0.3",
-  "description": "Save tabs to bookmark",
+  "description": "Bookmark all open tabs",
   "scripts": {
     "dev": "rollup --config rollup.config.ts",
     "build": "rollup --config rollup.config.ts",

@@ -3,7 +3,7 @@
   "name": "Save Tabs",
   "version": "0.0.3",
   "author": "wasdjkl",
-  "description": "Save tabs to bookmark",
+  "description": "Bookmark all open tabs",
   "browser_action": {
     "default_title": "Save Tabs",
     "default_icon": {
@@ -26,7 +26,7 @@
       "suggested_key": {
         "default": "Alt+Shift+D"
       },
-      "description": "save tabs to bookmark"
+      "description": "Bookmark all open tabs"
     }
   }
 }
