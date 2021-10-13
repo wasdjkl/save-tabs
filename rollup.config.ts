@@ -8,7 +8,7 @@ export default defineConfig({
   input: "src/background/index.ts",
   output: {
     file: "dist/debug/chrome/background/index.js",
-    format: "cjs",
+    format: "esm",
   },
   plugins: [
     rollupPluginNodeResolve(),
